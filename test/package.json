@@ -1,0 +1,21 @@
+{
+  "name": "Cadence Non-Fungible Token Tutorial",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "init-flow": "flow init",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "babel-jest": "^27.3.1",
+    "@onflow/types": "^0.0.4",
+    "flow-js-testing": "^0.2.3-alpha.1",
+    "jest": "^27.4.5"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
